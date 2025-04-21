@@ -5,5 +5,4 @@
 
 body {
   @apply bg-gradient-to-b from-[#0d0d1a] to-[#1a1a2e] text-white min-h-screen flex items-center justify-center;
-  background-image: url('/stars-bg.svg'); /* optional for added stars */
 }
